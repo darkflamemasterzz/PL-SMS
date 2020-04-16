@@ -1,0 +1,59 @@
+{
+    "outcomeList": [
+        {
+            "time": "2020-4-16",
+            "outcomes": [
+                {
+                    "dest": "买勇者斗恶龙11s",
+                    "type": false, 
+                    "count": 300
+                },
+                {
+                    "dest": "买pro手柄",
+                    "type": false,
+                    "count": 400
+                }
+            ]
+        },
+        {
+            "time": "2020-4-13",
+            "outcomes": [
+                {
+                    "dest": "报K大透视班",
+                    "type": true,
+                    "count": 3000
+                },
+                {
+                    "dest": "报K大透视班",
+                    "type": true,
+                    "count": 3000
+                },
+                {
+                    "dest": "报K大透视班",
+                    "type": true,
+                    "count": 3000
+                }
+            ]
+        },
+        {
+            "time": "2020-4-11",
+            "outcomes": [
+                {
+                    "dest": "买大头菜",
+                    "type": false,
+                    "count": 300
+                },
+                {
+                    "dest": "买大头菜",
+                    "type": false,
+                    "count": 300
+                },
+                {
+                    "dest": "买大头菜",
+                    "type": false,
+                    "count": 300
+                }
+            ]
+        }
+    ] 
+}
